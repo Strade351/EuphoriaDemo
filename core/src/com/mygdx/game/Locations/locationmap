@@ -1,0 +1,6 @@
+/*
+ 0 = empty
+ 1 = wall
+ s = city
+ d = dungeon
+ */
