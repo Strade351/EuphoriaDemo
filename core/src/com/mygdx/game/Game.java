@@ -14,6 +14,8 @@ public class Game extends ApplicationAdapter {
 	Hero hero;
 	int steps;
 	Vector2 tpos;
+
+	//commit test
 	
 	@Override
 	public void create () {
